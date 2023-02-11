@@ -1,3 +1,5 @@
+// start logic
+
 $(document).ready(function(){
 
     $('#menu').click(function(){
